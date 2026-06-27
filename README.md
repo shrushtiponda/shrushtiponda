@@ -24,13 +24,14 @@ I'm currently looking for:
 
 ### Backend
 
-- Node.js
-- Express.js
-- JavaScript
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) Node.js
+- ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+Express.js
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)JavaScript
 
 ### Database
 
-- MongoDB
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) MongoDB
 - Mongoose
 
 ### Tools
@@ -95,3 +96,10 @@ https://www.linkedin.com/in/shrushtiponda/
 GitHub:
 
 https://github.com/shrushtiponda
+
+
+## 🎯 Current Focus
+
+- Building production-ready Backend APIs
+- Learning System Design
+- Looking for Freelance Backend Projects
