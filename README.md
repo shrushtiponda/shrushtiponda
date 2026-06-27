@@ -8,7 +8,7 @@ Backend API Developer | Node.js | Express.js | MongoDB
 
 ## 👩‍💻 About Me
 
-I'm a Backend Developer with **7+ years of software development experience**, currently specializing in **Node.js backend development**.
+'m available for freelance backend development, API integrations, bug fixing, and remote backend opportunities.
 
 I enjoy building scalable backend systems, REST APIs, authentication modules, and database-driven applications.
 
@@ -96,9 +96,16 @@ GitHub:
 
 https://github.com/shrushtiponda
 
+Email:
+
+shrushtiponda@gmail.com
+
+---
 
 ## 🎯 Current Focus
 
 - Building production-ready Backend APIs
 - Learning System Design
 - Looking for Freelance Backend Projects
+
+
